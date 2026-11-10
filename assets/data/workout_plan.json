@@ -173,7 +173,7 @@
           "exerciseId": "hack_squat",
           "sets": 3,
           "reps": "10",
-          "restSeconds": 120
+          "restSeconds": 120,
           "alternatives": ["Squat al multipower"]
         },
         {
