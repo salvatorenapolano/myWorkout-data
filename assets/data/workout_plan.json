@@ -43,8 +43,7 @@
           "exerciseId": "pec_deck",
           "sets": 3,
           "reps": "12–15",
-          "restSeconds": 90,
-          "notes": "Settimana 1: prima una serie leggera da 10 per regolare la macchina (non conta)."
+          "restSeconds": 90
         },
         {
           "exerciseId": "shoulder_press_macchina",
@@ -76,8 +75,7 @@
           "exerciseId": "french_press_manubrio",
           "sets": 2,
           "reps": "12",
-          "restSeconds": 60,
-          "notes": "Solo nelle settimane 1, 3 e 5."
+          "restSeconds": 60
         }
       ]
     },
@@ -123,15 +121,13 @@
           "exerciseId": "reverse_pec_deck",
           "sets": 3,
           "reps": "12–15",
-          "restSeconds": 60,
-          "notes": "Settimana 1: prima una serie leggera da 10 per regolare la macchina (non conta)."
+          "restSeconds": 60
         },
         {
           "exerciseId": "iperestensioni",
           "sets": 2,
           "reps": "12",
-          "restSeconds": 60,
-          "notes": "Settimana 1: prima una serie leggera da 10 per imparare il movimento (non conta)."
+          "restSeconds": 60
         },
         {
           "exerciseId": "curl_macchina",
@@ -177,16 +173,14 @@
           "exerciseId": "hack_squat",
           "sets": 3,
           "reps": "10",
-          "restSeconds": 120,
-          "notes": "Settimane 1–2 con la sola macchina o quasi.",
+          "restSeconds": 120
           "alternatives": ["Squat al multipower"]
         },
         {
           "exerciseId": "hip_thrust_macchina",
           "sets": 3,
           "reps": "10–12",
-          "restSeconds": 90,
-          "notes": "Settimana 1 leggero, per imparare."
+          "restSeconds": 90
         },
         {
           "exerciseId": "leg_curl_seduto",
@@ -206,22 +200,19 @@
           "exerciseId": "adductor",
           "sets": 2,
           "reps": "15",
-          "restSeconds": 60,
-          "notes": "Settimana 1: prima una serie leggera da 10 per regolare la macchina (non conta)."
+          "restSeconds": 60
         },
         {
           "exerciseId": "abductor",
           "sets": 2,
           "reps": "15",
-          "restSeconds": 60,
-          "notes": "Settimana 1: prima una serie leggera da 10 per regolare la macchina (non conta)."
+          "restSeconds": 60
         },
         {
           "exerciseId": "calf_machine",
           "sets": 3,
           "reps": "15",
-          "restSeconds": 60,
-          "notes": "Settimana 1: prima una serie leggera da 10 per regolare la macchina (non conta)."
+          "restSeconds": 60
         }
       ]
     }
@@ -249,8 +240,7 @@
       },
       {
         "exerciseId": "plank_laterale",
-        "reps": "20\" per lato",
-        "notes": "Con le ginocchia a terra se serve."
+        "reps": "20\" per lato"
       },
       { "exerciseId": "leg_raise", "reps": "10–12" },
       { "exerciseId": "heel_touch", "reps": "12 per lato" }
